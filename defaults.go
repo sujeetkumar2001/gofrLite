@@ -1,7 +1,7 @@
 package gofrLite
 
 import (
-	"net/http"
+	"gofr.dev/pkg/gofr/http"
 	"reflect"
 )
 
